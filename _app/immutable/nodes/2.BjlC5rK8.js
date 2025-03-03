@@ -1,0 +1,1 @@
+import{t as r,a as m}from"../chunks/acFyr7fg.js";import"../chunks/BUuZ52LP.js";import{t as p,b as n,r as s}from"../chunks/9rM619JX.js";import{s as f}from"../chunks/D35auEbO.js";var i=r("<h1> </h1>");function l(t,a){var e=i(),o=n(e);s(e),p(()=>f(o,`Hello ${a.name??""}`)),m(t,e)}function x(t){l(t,{name:"World"})}export{x as component};
