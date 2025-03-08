@@ -1,6 +1,7 @@
 {
   "link": "https://example.com",
+  "tags": "tags",
   "title": "Sample Item Title",
   "content": "This is some content for the sample item. You can describe anything here.",
-  "imagePath": "/images/items/bb8.png"
+  "imagePath": "/images/items/r2d2.jpg"
 }
