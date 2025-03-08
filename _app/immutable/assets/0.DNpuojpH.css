@@ -1,0 +1,1 @@
+.body.svelte-1lvyzxs{margin:auto;overflow:hidden;padding:5%}@media (2000px <= width){.body.svelte-1lvyzxs{max-width:50%;border:1px solid red}}@media (1000px <= width <= 2000px){.body.svelte-1lvyzxs{max-width:1000px;border:1px solid blue}}@media (width < 1000px){.body.svelte-1lvyzxs{max-width:100%;border:1px solid green}}
