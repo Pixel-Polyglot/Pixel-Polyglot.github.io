@@ -1,6 +1,6 @@
 {
   "link": "#/projects/myproject",
-  "tags": "tags",
+  "tags": ["C++", "OpenGL", "ImGui", "GLSL"],
   "title": "Sample Item Title",
   "content": "This is some content for the <b>sample</b> item. You can describe anything here.",
   "imagePath": "/images/items/battledroid.jpg"
