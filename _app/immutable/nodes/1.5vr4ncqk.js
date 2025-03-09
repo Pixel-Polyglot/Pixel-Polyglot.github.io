@@ -1,1 +1,0 @@
-import{t as a,a as r}from"../chunks/BVuq9G2T.js";import"../chunks/pK1ksJD2.js";var e=a('<div class="container svelte-1uwnzps"><h1>Page not found</h1></div>');function i(o){var t=e();r(o,t)}export{i as component};

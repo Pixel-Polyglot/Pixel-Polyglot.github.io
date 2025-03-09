@@ -1,5 +1,5 @@
 {
-  "link": "https://example.com",
+  "link": "#/projects/myproject",
   "tags": "tags",
   "title": "Sample Item Title",
   "content": "This is some content for the <b>sample</b> item. You can describe anything here.",
