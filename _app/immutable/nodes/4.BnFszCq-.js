@@ -1,0 +1,1 @@
+import{t as e,a as o}from"../chunks/yeNRXBP6.js";import"../chunks/BQijforo.js";var i=e('<div class="container svelte-zifze3">This is my project</div>');function s(t){var a=i();o(t,a)}export{s as component};
